@@ -1,0 +1,27 @@
+{
+  "name": "NIDemoModule",
+  "version": "0.1.0",
+  "summary": "A short description of NIDemoModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/278685739@qq.com/NIDemoModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "278685739@qq.com": "hezd@autoai.com"
+  },
+  "source": {
+    "git": "https://github.com/278685739@qq.com/NIDemoModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NIDemoModule/Classes/**/*",
+  "dependencies": {
+    "NIBaseClass": [
+
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+framework module NIBaseClass {
+  umbrella header "NIBaseClass-umbrella.h"
+
+  export *
+  module * { export * }
+}

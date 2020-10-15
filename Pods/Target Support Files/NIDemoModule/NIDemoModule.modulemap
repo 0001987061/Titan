@@ -1,0 +1,6 @@
+framework module NIDemoModule {
+  umbrella header "NIDemoModule-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+PODS:
+  - NIBaseClass (0.1.0)
+  - NIDemoModule (0.1.0):
+    - NIBaseClass
+
+DEPENDENCIES:
+  - NIBaseClass (from `Lib/NIBaseClass`)
+  - NIDemoModule (from `Lib/NIDemoModule`)
+
+EXTERNAL SOURCES:
+  NIBaseClass:
+    :path: Lib/NIBaseClass
+  NIDemoModule:
+    :path: Lib/NIDemoModule
+
+SPEC CHECKSUMS:
+  NIBaseClass: 8e199b7861c9fc157df6bd7ad582db14ba5b5b76
+  NIDemoModule: c714b0b666e298b4c9b07db3e04a8bf289aae776
+
+PODFILE CHECKSUM: 08b21fb79189d21aba477c0d2348941e9d083f14
+
+COCOAPODS: 1.9.3
